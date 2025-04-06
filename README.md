@@ -61,8 +61,8 @@ This dashboard provides a high-level overview of Uber trip data, focusing on key
 #### Additional Enhancements
 *   **Dynamic Title:** Chart titles update based on the selected measure.
 *   **Slicers:** Filters for Date, City, and other interactive filters.
-*   **Tooltips:** Display additional details like Average Booking Value or Trip Distance.
-
+**Tooltips:** Display additional details like Average Booking Value or Trip Distance.
+*   ![1](https://github.com/user-attachments/assets/8042e89a-7cc1-49a9-a2e8-70ecc7ed9e4b)
 ### Dashboard 2: Time Analysis
 
 This dashboard focuses on analyzing trip patterns based on time intervals to optimize operations, pricing, and driver availability.
@@ -77,6 +77,9 @@ This dashboard focuses on analyzing trip patterns based on time intervals to opt
     *   Columns: Days of the Week (Mon-Sun)
     *   Values: Selected Dynamic Measure (e.g., Total Bookings)
 
+![2](https://github.com/user-attachments/assets/183095eb-71b3-435e-a634-85199fb9928d)
+
+
 ### Dashboard 3: Details Tab
 
 This tab provides in-depth insights and allows users to explore granular data through drill-through functionality.
@@ -86,6 +89,9 @@ This tab provides in-depth insights and allows users to explore granular data th
 *   **Grid Table with Key Fields:** Displays essential trip details.
 *   **Drill-Through Functionality:** Users can right-click on a data point from other visuals and drill through to this tab to see detailed records.
 *   **Bookmark for Full Data View:** A "View Full Data" bookmark to toggle between filtered drill-through data and the complete dataset.
+
+![3](https://github.com/user-attachments/assets/2eb3adc1-06d5-4f8f-8cb3-60ebd08927b3)
+
 
 ## Other Implementation Enhancements
 
