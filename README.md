@@ -1,5 +1,7 @@
 # Uber Trip Analysis with Power BI
 
+# Dashboard Live: https://app.powerbi.com/links/d8PG6421e0?ctid=ff4a48d6-4b5e-4fd3-8266-7eafc3e6e23e&pbi_source=linkShare
+
 ## Overview
 
 This project analyzes Uber trip data using Power BI to extract insights related to booking trends, revenue, and trip efficiency. The analysis helps stakeholders make data-driven decisions to optimize pricing models and improve customer satisfaction. The dashboard is designed to provide a comprehensive overview, time-based analysis, and detailed data exploration.
