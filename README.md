@@ -3,9 +3,7 @@
 ### Dashboard Live: https://app.powerbi.com/links/d8PG6421e0?ctid=ff4a48d6-4b5e-4fd3-8266-7eafc3e6e23e&pbi_source=linkShare
 
 ## Overview
-Uber Trip Analysis Dashboard (Power BI): Developed an interactive Power BI dashboard to optimize Uber operations through data-driven insights, leveraging Excel-based fact/dimension tables (trip details, locations, calendar) to model metrics like revenue, bookings, and trip trends. Designed dynamic visualizations (heatmaps, line charts) and time-interval analysis (hourly/weekly) to identify demand patterns, peak hours, and surge pricing opportunities, while implementing drill-throughs and slicers for granular exploration of routes, vehicle preferences, and high-demand areas. Enhanced decision-making by integrating tools like measure selectors, bookmarks, and tooltips to highlight actionable insights, improving operational efficiency and customer satisfaction.
-<br>
-This project analyzes Uber trip data using Power BI to extract insights related to booking trends, revenue, and trip efficiency. The analysis helps stakeholders make data-driven decisions to optimize pricing models and improve customer satisfaction. The dashboard is designed to provide a comprehensive overview, time-based analysis, and detailed data exploration.
+Uber Trip Analysis Dashboard (Power BI): Developed an interactive Power BI dashboard to optimize Uber operations through data-driven insights, leveraging Excel-based fact/dimension tables (trip details, locations, calendar) to model metrics like revenue, bookings, and trip trends. Designed dynamic visualizations (heatmaps, line charts) and time-interval analysis (hourly/weekly) to identify demand patterns, peak hours, and surge pricing opportunities, while implementing drill-throughs and slicers for granular exploration of routes, vehicle preferences, and high-demand areas. Enhanced decision-making by integrating tools like measure selectors, bookmarks, and tooltips to highlight actionable insights, improving operational efficiency and customer satisfaction. Tools: Power BI, Excel, SQL.
 
 ## Data Sources
 
